@@ -71,9 +71,9 @@ main {
     flex-basis: 32%;
 }
 
-.montador {
-    height: 100%;;
-}
+/* .montador {
+    height: 100%;
+} */
 
 .montador-conteudo {
     padding: 2em 10%;
