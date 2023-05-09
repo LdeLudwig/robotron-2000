@@ -57,6 +57,8 @@ function manipulaDados (operacao, controle) {
     }
 }
 
+    /* Aqui a função recebe dois parametros: a operação que deve fazer acrescentando a diferença nas estatísticas
+        de acordo com qual adicionamos e a peça que foi clicada para ser adicionada. */
 function atualizaEstatistica(operacao, peca){
     estatistica.forEach((elemento)=>{
         if(operacao === "+" ){
